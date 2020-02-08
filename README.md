@@ -29,8 +29,13 @@ http://127.0.0.1:10080
 ##SQLクライアント接続設定
 
 Name: docker-laravel(任意)
+
 Host: 127.0.0.1
+
 Port: 13306
+
 User: homestead
+
 Password: secret
+
 Database: homestead
